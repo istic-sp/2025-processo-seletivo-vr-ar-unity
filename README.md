@@ -2,6 +2,8 @@
 **Duração:** 1h30  
 **Ferramentas permitidas:** Unity, Unity Asset Store, Google, YouTube, ChatGPT, etc...
 
+**Link para inscrição no processo:** https://forms.office.com/r/FGs59ewpBM 
+
 ## 🎯 Objetivo
 Criar uma simulação simples em **VR** na Unity, utilizando **assets gratuitos** e **configurando interações básicas** em um ambiente industrial.
 
