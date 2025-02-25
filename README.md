@@ -1,5 +1,5 @@
 # Prova para Estagiário – AR/VR na Unity
-**Duração:** 1h30  
+**Duração:** 2h  
 **Ferramentas permitidas:** Unity, Unity Asset Store, Google, YouTube, ChatGPT, etc...
 
 **Link para inscrição no processo:** https://forms.office.com/r/FGs59ewpBM 
@@ -32,12 +32,16 @@ Criar uma simulação simples em **VR** na Unity, utilizando **assets gratuitos*
 - Garantir que o ambiente está funcional e interativo.
 
 ---
+## 📨 Entrega
+- Envie um e-mail com seu código fonte para: **paulo.brandao@sp.senai.br**
+- Envie um link do repositório **público** ou arquivo .zip com seus scripts e um vídeo do seu game sendo testado.
+---
 
 ## ✅ Critérios de Avaliação
-- **Configuração do Projeto** – Se o candidato conseguiu configurar o XR Interaction Toolkit corretamente.  
 - **Importação de Assets** – Se conseguiu buscar e integrar assets de forma eficiente.  
 - **Interação VR** – Se implementou uma interação básica funcional.  
-- **Organização e Estrutura do Código** – Qualidade do código e organização do projeto.  
+- **Organização e Estrutura do Código** – Qualidade do código e organização do projeto.
+- **Configuração do Projeto** – Se o candidato conseguiu configurar o XR Interaction Toolkit corretamente.  
 - **Tempo de Execução** – Se conseguiu completar dentro do prazo.  
 
 ---
